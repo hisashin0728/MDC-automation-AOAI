@@ -12,9 +12,9 @@ Microsoft Defender for Cloud の Automation 機能を用いて、アラート/�
 # デプロイ
 > Deploy to Azure
 
-- **推奨事項 (Recommendations)** 通知パッケージ
+- **推奨事項 (Recommendations)** 通知パッケージ<p>
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhisashin0728%2FMDC-automation-AOAI%2Fmain%2FMDC-automation-recommendation-AOAI.json)
-- **セキュリティアラート (CWPP Alert)** 通知パッケージ
+- **セキュリティアラート (CWPP Alert)** 通知パッケージ<p>
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fhisashin0728%2FMDC-automation-AOAI%2Fmain%2FMDC-automation-alert-AOAI.json)
 
 # 構成方法
